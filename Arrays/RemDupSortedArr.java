@@ -1,4 +1,4 @@
-package Arrays;
+package arrays;
 
 public class RemDupSortedArr{
     public int removeDuplicated(int[] nums){

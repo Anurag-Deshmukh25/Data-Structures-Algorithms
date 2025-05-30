@@ -1,4 +1,4 @@
-package Arrays;
+package arrays;
 
 public class ProductOfArrExSelf {
     public int[] productExceptSelf(int[] nums){

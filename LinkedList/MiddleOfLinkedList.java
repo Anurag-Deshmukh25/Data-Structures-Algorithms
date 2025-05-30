@@ -1,5 +1,3 @@
-package LinkedList;
-
 public class MiddleOfLinkedList {
     public ListNode middleNode(ListNode head){
         if(head == null) return null;
