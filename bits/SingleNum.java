@@ -1,4 +1,4 @@
-package BitManipulation;
+package bits;
 
 public class SingleNum {
     public int singleNumber(int[] nums){

@@ -1,3 +1,5 @@
+package linkedlist;
+
 public class LinkedListCycle {
     public boolean hasCycle(ListNode head){
         if(head == null) return false;
